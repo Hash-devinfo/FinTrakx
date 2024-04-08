@@ -1,2 +1,2 @@
-# Expanse-Tracker
+# FinTrax
 SDC Assignment
